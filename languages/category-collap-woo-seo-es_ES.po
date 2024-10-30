@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Category collapser woocommerce SEO\n"
+"POT-Creation-Date: 2019-10-10 23:47+0200\n"
+"PO-Revision-Date: 2019-10-10 23:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: category-collapse.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/settings_page.php:5
+msgid "Category Collapser SEO"
+msgstr ""
+
+#: includes/settings_page.php:12
+msgid "Mode"
+msgstr "Modo"
+
+#: includes/settings_page.php:19
+msgid "Charactars"
+msgstr "Caracteres"
+
+#: includes/settings_page.php:20
+msgid "Words"
+msgstr "Palabras"
+
+#: includes/settings_page.php:21
+msgid "Lines"
+msgstr "Líneas"
+
+#: includes/settings_page.php:22
+msgid "Whole Element"
+msgstr "Elemento entero"
+
+#: includes/settings_page.php:32
+msgid "Ammount"
+msgstr "Cantidad"
+
+#: includes/settings_page.php:42
+msgid "Speed"
+msgstr "Velocidad"
+
+#: includes/settings_page.php:49
+msgid "Slow"
+msgstr "Lento"
+
+#: includes/settings_page.php:50
+msgid "Medium"
+msgstr "Medio"
+
+#: includes/settings_page.php:51
+msgid "Fast"
+msgstr "Rápido"
+
+#: includes/settings_page.php:61
+msgid "Show more"
+msgstr "Mostrar más"
+
+#: includes/settings_page.php:69
+msgid "Hide text"
+msgstr "Esconder texto"
+
+#: includes/settings_page.php:80
+msgid "Save settings"
+msgstr "Guardar cambios"
+
+#. Plugin Name of the plugin/theme
+msgid "Category collapser woocommerce SEO"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Camilo"
+msgstr "Camilo"
+
+#. Author URI of the plugin/theme
+msgid "https://camilowp.com/"
+msgstr "https://camilowp.com/"
